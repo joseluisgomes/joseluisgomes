@@ -9,11 +9,10 @@ Currently I'm working on my Java skills with the help of **Effective Java** book
 - 👯 I’m looking to collaborate on Java projects. 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about Java and C stuff 
-- 📫 How to reach me: Twitter - @JosJoslus 
 - 😄 Pronouns: He/His. 
 - ⚡ Fun fact: I have a good sense of humor 
 
-### Connect with me:
+### Connect with me 📫 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joseluisgomes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/luis_oliveiragomes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JosJoslus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/JoseLuisGomes)  
 <br />
