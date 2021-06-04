@@ -1,5 +1,7 @@
 ### Hello, I'm José Luís Gomes! 👋
 
+- 👨‍🎓 I'm a student from Universidade do Minho
+- 💻 I'm currently studing "Engenharia de Telecomunicações e Informática".
 - 🔭 I’m currently working on HomeBanking College project.
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on Java projects.
