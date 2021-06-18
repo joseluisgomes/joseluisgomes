@@ -8,7 +8,7 @@ Currently I'm working on my Java skills with the help of **Effective Java** book
 - 🌱 I’m currently learning Java. 
 - 👯 I’m looking to collaborate on OO projects. 
 - 🤔 I’m looking for help with ... 
-- 💬 Ask me about Java and C stuff 
+- 💬 Ask me about tech stuff 
 - 😄 Pronouns: He/His. 
 - ⚡ Fun fact: I have a good sense of humor 
 
