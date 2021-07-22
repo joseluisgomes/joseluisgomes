@@ -32,7 +32,7 @@ Currently I'm working on my Java skills with the help of **Effective Java** book
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/joseluisgomes/joseluisgomes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgomes&title_color=ffffff&&theme=tokyonight&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgomes&hide=PureBasic&title_color=ffffff&&theme=tokyonight&langs_count=3" />
 </a>
 <a href="https://github.com/joseluisgomes/joseluisgomes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluisgomes&show_icons=true&line_height=27&count_private=true&&theme=tokyonight" />
