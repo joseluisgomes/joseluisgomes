@@ -19,6 +19,7 @@ Currently I'm working on my Java skills with the help of **Effective Java** book
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-idea&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
