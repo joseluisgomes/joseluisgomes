@@ -37,5 +37,6 @@ Currently I'm working on my Java skills with the help of **Effective Java** book
 <br />
 <br />
 
+## 🏆 My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joseluisgomes&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgomes&theme=tokyonight)
