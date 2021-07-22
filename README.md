@@ -12,7 +12,7 @@ Currently I'm working on my Java skills with the help of **Effective Java** book
 - 😄 Pronouns: He/His. 
 - ⚡ Fun fact: I have a good sense of humor. 
 
-## Connect with me 📫 
+## 📫 Connect with me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joseluisgomes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josé-gomes-0a11b5206/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://www.linkedin.com/in/josé-gomes-0a11b5206/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg' alt='messenger' height='40'>](https://www.linkedin.com/in/josé-gomes-0a11b5206/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://www.linkedin.com/in/josé-gomes-0a11b5206/)
 
