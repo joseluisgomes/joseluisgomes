@@ -4,9 +4,8 @@ More precisely I'm studing *Engenharia de Telecomunicações e Informática*.
 I started my programming journey on my 1st year of college (2019). Back in the day  I bought a **C** language book and after that I started to explore new languages. 
 Currently I'm working on my Java skills with the help of **Effective Java** book from Joshua Block. 
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java. 
-- 👯 I’m looking to collaborate on OO projects. 
+- 👯 I’m looking to collaborate on tech projects. 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about tech stuff. 
 - 😄 Pronouns: He/His. 
