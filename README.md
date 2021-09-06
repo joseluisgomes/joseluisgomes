@@ -4,13 +4,6 @@ More precisely I'm studing *Engenharia de Telecomunicações e Informática*.
 I started my programming journey on my 1st year of college (2019). Back in the day  I bought a **C** language book and after that I started to explore new languages. 
 Currently I'm working on my Java skills with the help of **Effective Java** book from Joshua Block. 
 
-- 🌱 I’m currently learning Java. 
-- 👯 I’m looking to collaborate on tech projects. 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about tech stuff. 
-- 😄 Pronouns: He/His. 
-- ⚡ Fun fact: I have a good sense of humor. 
-
 ## 📫 Connect with me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joseluisgomes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josé-gomes-0a11b5206/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='reddit' height='40'>](https://www.reddit.com/user/JoseLuisGomes)
