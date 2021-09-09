@@ -1,7 +1,6 @@
 ### Hi 👋, I'm José Luís Gomes
 ## Hello! I'm José Luís and I'm a engineer student at Universidade do Minho. 
-More precisely I'm studing *Engenharia de Telecomunicações e Informática*.
-I started my programming journey on my 1st year of college (2019). Back in the day  I bought a **C** language book and after that I started to explore new languages. 
+More precisely I'm studing *Engenharia de Telecomunicações e Informática*. 
 Currently I'm working on my Java skills with the help of **Effective Java** book from Joshua Block. 
 
 ## 📫 Connect with me
