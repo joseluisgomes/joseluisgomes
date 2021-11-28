@@ -1,11 +1,9 @@
 ### Hi 👋, I'm José Luís Gomes
-## Hello! I'm José Luís and I'm a engineer student at Universidade do Minho. 
-More precisely I'm studing *Engenharia de Telecomunicações e Informática*. 
-Currently I'm working on my Java skills with the help of **Effective Java** book from Joshua Block. 
-
-## 📫 Connect with me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joseluisgomes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josé-gomes-0a11b5206/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='reddit' height='40'>](https://www.reddit.com/user/JoseLuisGomes)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseluisgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgomes&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## 🧰 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
@@ -22,10 +20,15 @@ Currently I'm working on my Java skills with the help of **Effective Java** book
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
 
-## &#x1f4c8; GitHub Stats
+  ## 📫 Connect with me
 
-<a href="https://github.com/joseluisgomes/joseluisgomes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgomes&hide=PureBasic&title_color=ffffff&&theme=tokyonight&langs_count=3" />
+<div> 
 </a>
-<a href="https://github.com/joseluisgomes/joseluisgomes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluisgomes&show_icons=true&line_height=27&count_private=true&&theme=tokyonight" />
+  <a href="https://instagram.com/luis_oliveiragomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "joslus.luis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-gomes-0a11b5206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
