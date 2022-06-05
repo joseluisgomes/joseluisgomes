@@ -1,4 +1,4 @@
-### Hi 👋, I'm José Luís Gomes
+### Hi 👋, I use arch btw
 <div align="center">
   <a href="https://github.com/joseluisgomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseluisgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
