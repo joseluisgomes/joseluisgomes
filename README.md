@@ -9,7 +9,7 @@ I'm a master's student of _Telecommunications and Informatic Engineering_ at **U
 </p>
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stats 📈</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=joseluisgomes&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgomes&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a>
