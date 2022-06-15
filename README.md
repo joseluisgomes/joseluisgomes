@@ -8,11 +8,12 @@ I'm a master's student of _Telecommunications and Informatic Engineering_ at **U
   </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/joseluisgomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseluisgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgomes&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=joseluisgomes&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgomes&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a>
+</details>
 
 ## 📫 Connect with me
 
