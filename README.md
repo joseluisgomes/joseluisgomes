@@ -1,4 +1,4 @@
-# Hi 👋, I'm Luis
+# Hi 👋, I'm Luís
 
 I'm a master's student of _Telecommunications and Informatic Engineering_ at **Universidade do Minho**. Currently I'm on my 3rd year of college.
 
