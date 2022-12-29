@@ -4,7 +4,7 @@ I'm a master's student of _Telecommunications and Informatic Engineering_ at **U
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,kotlin,linux,idea,vscode,androidstudio,spring,postgres,mysql,docker,kubernetes,git"/>
+    <img src="https://skillicons.dev/icons?i=c,java,kotlin,python,linux,idea,vscode,androidstudio,spring,postgres,mysql,docker,kubernetes,git"/>
   </a>
 </p>
 
