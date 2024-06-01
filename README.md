@@ -4,7 +4,7 @@ Master's student of _Telecommunications and Computer Engineering_ at **Universid
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,kotlin,python,linux,idea,vscode,androidstudio,spring,postgres,mysql,docker,kubernetes,git"/>
+    <img src="https://skillicons.dev/icons?i=c,java,python,linux,idea,vscode,spring,postgres,mysql,git"/>
   </a>
 </p>
 
