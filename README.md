@@ -1,6 +1,6 @@
-# Hi 👋, I'm Luís
+# Luís Gomes
 
-I'm a master's student of _Telecommunications and Computer Engineering_ at **Universidade do Minho**.
+Master's student of _Telecommunications and Computer Engineering_ at **Universidade do Minho**.
 
 <p align="center">
   <a href="https://skillicons.dev">
