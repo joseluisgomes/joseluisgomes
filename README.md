@@ -1,6 +1,6 @@
 # Luís Gomes
 
-Master's student of _Telecommunications and Computer Engineering_ at **Universidade do Minho**.
+Master's Degree in _Telecommunications and Computer Engineering_ at **Universidade do Minho**.
 
 <p align="center">
   <a href="https://skillicons.dev">
